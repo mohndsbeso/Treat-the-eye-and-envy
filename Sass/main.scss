@@ -1,0 +1,14 @@
+body
+{
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://media.istockphoto.com/photos/possessed-do-you-believe-in-devil-picture-id157282842?b=1&k=6&m=157282842&s=170667a&w=0&h=OVl8g1VLsyXcyNVXiM0V52B6uwr6Wu73gypH3cttGsQ=);
+    direction: rtl;
+}
+@import "header/header";
+@import "nav/container-section1/container-section1";
+@import "nav/container-section2/container-section2";
+@import "nav/container-section3/container-section3";
+@import "nav/container-section4/container-section4";
+@import "nav/APP-VIDUO/APP-VIDUO";
